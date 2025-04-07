@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+.container {
+  width: 100%;
+}
+.navbar {
+  background-color: #bfe6ec;
+}
+button {
+  background-color: #e27e28;
+}
+.main {
+  background: linear-gradient(#bfe6ec 30%, #fff 100%);
+}
+.imgboxes img {
+  height: 72px;
+  width: 72px;
+  margin-bottom: 1.5rem;
+}
+.imgboxes p {
+  color: #465a65;
+}
+.col-1 img {
+  background-color: #00a3b1;
+  border-radius: 50%;
+  padding: 6px;
+  height: 40px;
+  width: 40px;
+}
+.about-money img {
+  height: 72px;
+  width: 72px;
+  margin-bottom: 1.5rem;
+}
+.about-money p {
+  color: #465a65;
+}
+.partner-text {
+  background-image: url("./images/be-partner.png");
+  background-size: cover;
+  background-position: center;
+  background-color: #a19f9f;
+  border-radius: 30px;
+  height: 250px;
+  padding: 50px;
+  color: #e2dede;
+  opacity: 1;
+}
+.partner-text button {
+  background-color: #e27e28;
+}
+.brandon {
+  background-color: #effafd;
+}
+.upquote img {
+  height: 75px;
+  width: 120px;
+}
+.downquote img {
+  height: 75px;
+  width: 120px;
+}
+.brandon-profile img {
+  border-radius: 50%;
+  height: 90px;
+  width: 90px;
+}
+.brandon-profile p {
+  color: #465a65;
+}
+.brand-box img {
+  height: 60%;
+  width: 70%;
+}
+.brand p {
+  color: #00a3b1;
+}
+.scrollimg-container {
+  overflow-x: auto;
+  white-space: nowrap;
+  scrollbar-width: none;
+}
+.scroll-item {
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  width: 25%;
+}
+.scroll-item p {
+  text-wrap: wrap;
+  text-align: start;
+  margin-top: 10px;
+}
+
+.investment {
+  height: 135px;
+  margin: 0 auto;
+}
+.footer-content {
+  margin: 0 auto;
+  text-align: start;
+  color: #465a65;
+}
+.social-icons {
+  height: 30px;
+  width: 30px;
+}
+
+@media (min-width: 1400px) {
+  .scroll-item {
+    width: 20%;
+  }
+}

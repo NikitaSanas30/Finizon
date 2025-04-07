@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96">
+  <g id="Group_16257" data-name="Group 16257" transform="translate(-8249 -16793)">
+    <g id="Rectangle_7305" data-name="Rectangle 7305" transform="translate(8249 16793)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="96" height="95.615" stroke="none"/>
+      <rect x="0.5" y="0.5" width="95" height="94.615" fill="none"/>
+    </g>
+    <g id="health-insurance" transform="translate(8256.83 16793)">
+      <g id="Group_15008" data-name="Group 15008" transform="translate(0 0)">
+        <g id="Group_15007" data-name="Group 15007">
+          <path id="Path_20986" data-name="Path 20986" d="M42.161,96a1.844,1.844,0,0,1-.51-.068C41.253,95.832,2,85.12,2,48.716V16a2,2,0,0,1,1.313-1.876l38.153-14a2.024,2.024,0,0,1,1.39,0l38.153,14A2,2,0,0,1,82.322,16V48.716c0,36.408-39.253,47.117-39.651,47.221a2,2,0,0,1-.51.064ZM6.016,17.4v31.32c0,31.528,31.526,41.865,36.145,43.209,4.618-1.344,36.145-11.68,36.145-43.209V17.4L42.161,4.131Z" transform="translate(-2 0)" fill="#e27e28"/>
+        </g>
+      </g>
+      <g id="Group_15062" data-name="Group 15062" transform="translate(22.171 35.543)">
+        <path id="Path_14034" data-name="Path 14034" d="M28.837,39.411a1.3,1.3,0,0,1-.149-.006,2.766,2.766,0,0,1-2.009-1.035L15.607,24.532a2.769,2.769,0,0,1,4.323-3.46L29.064,32.5,46.252,15.309a2.767,2.767,0,0,1,3.914,3.914L30.791,38.6A2.734,2.734,0,0,1,28.837,39.411Z" transform="translate(-15 -14.5)" fill="#e27e28"/>
+      </g>
+    </g>
+  </g>
+</svg>
